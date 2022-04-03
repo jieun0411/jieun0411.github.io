@@ -19,7 +19,7 @@ locale                   : "ko-KR"
 title                    : "jieun's develog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "jieun"
+name                     : "jing"
 description              : "천천히 꾸준하게"
 url                      : "https://jieun0411.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -102,7 +102,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "jieun"
+  name             : "jing"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "천천히 꾸준하게"
   location         : "Republic of Korea"
@@ -110,7 +110,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "1234jieun@gmail.com"
+      # url: "1234jieun@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -122,7 +122,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/jieun0411"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/rlawld411"
@@ -132,10 +132,10 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url : "1234jieun@gmail.com"
+      # url : "1234jieun@gmail.com"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url:
+      url: "https://github.com/jieun0411"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url:
